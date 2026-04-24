@@ -1,0 +1,1 @@
+enum MeshNodeRole { master, client }
